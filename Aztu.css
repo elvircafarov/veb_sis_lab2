@@ -1,0 +1,44 @@
+header {
+	background-color: rgb(44, 3, 140);
+	color: #fff;
+	padding: 15px;
+    
+    
+}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 5px;
+	overflow: hidden;
+}
+
+nav li {
+	float: right;
+    font-size: x-large;
+    
+
+}
+
+nav li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+    text-decoration: none;
+    
+
+}
+
+nav li a:hover {
+	background-color:white;
+    color: black;
+}
+body {
+    
+background-image: url(unnamed3.jpg) ;
+background-repeat: no-repeat;
+background-size: 1500px;
+text
+
+
+}
